@@ -1,0 +1,3 @@
+[submodule "mobileapp/androidnative"]
+	path = mobileapp/androidnative
+	url = https://github.com/redradist/OpenElection_AndroidNative
