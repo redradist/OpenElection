@@ -1,6 +1,6 @@
 [submodule "mobileapp/androidnative"]
 	path = mobileapp/androidnative
-	url = https://github.com/redradist/OpenElection_AndroidNative
+	url = https://github.com/redradist/OpenVote.Android.git
 [submodule "mobileapp/xamarin"]
 	path = mobileapp/xamarin
-	url = https://github.com/redradist/OpenElection_Xamarin.git
+	url = https://github.com/redradist/OpenVote.Xamarin.git

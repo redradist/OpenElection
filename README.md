@@ -1,1 +1,1 @@
-# OpenElection
+# OpenVote
