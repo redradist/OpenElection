@@ -6,4 +6,4 @@
 	url = https://github.com/redradist/OpenVote.Xamarin.git
 [submodule "webapp/asp.net"]
 	path = webapp/asp.net
-	url = https://github.com/redradist/OpenVote.Web.git
+	url = https://github.com/redradist/OpenVote.ASP.NET.git
