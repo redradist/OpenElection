@@ -7,3 +7,6 @@
 [submodule "webapp/asp.net"]
 	path = webapp/asp.net
 	url = https://github.com/redradist/OpenVote.ASP.NET.git
+[submodule "shared.net"]
+	path = shared.net
+	url = https://github.com/redradist/OpenVote.Shared.git
