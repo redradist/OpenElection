@@ -1,4 +1,4 @@
-# OpenVote
+# OpenVote (Future of Free Society)
 
 This initiatiative was started by me at the middle of Janury 2019 after I have watched interview of Vladimir Zelenski to Dmitry Gordon
 (https://www.youtube.com/watch?v=P8OBR9yjgFA)
